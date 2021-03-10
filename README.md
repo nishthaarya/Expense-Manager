@@ -17,3 +17,6 @@ Expense Managing App for all your organizational needs!
 
 <hr/>
 
+## Contributors
+<div><a href="https://github.com/nishthaarya" >Nishtha</a></div>
+<div> <a href="https://github.com/MahenParameshwar" >Mahen</a></div>
